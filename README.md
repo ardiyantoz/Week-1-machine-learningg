@@ -18,5 +18,5 @@ print(minVal)
 newDataDrop =   dataListing.dropna()
 print(newDataDrop)
 
-newgDataFill =  dataListing.fillna('thisIsNULL')
+newgDataFill =  dataListing.fillna('INI NULLL HEHEHE')
 print(newDataFill)
